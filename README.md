@@ -5,24 +5,22 @@ Web scraping to extract most recent online data about Mars using BeautifulSoup a
 
 The script I built is designed to scrape the most recent astronomy data about Mars from all over the web and gather it together in one location at the web page. Each time we run the script, we'll pull the newest data available. As long as the website continues to be updated with new articles, we'll have a constant influx of new information at our fingertips. That's a really useful tool for someone who wants to keep up with the updates of information. 
 
-I used BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, stored the scraped data on a Mongo database and used a web application to display the data.
-Link to the project <a href="https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz">here at S3 service on AWS</a>  
+I used BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, stored the scraped data on a Mongo database and used a web application to display the data. 
 
 **Used tools**
 BeautifulSoup 2.2.1  
-Bootstrap 4.3.1
+Bootstrap 4.3.1  
 Chrome Driver 3.7.0  
-DateTime 4.3
-Flask 1.1.2
+DateTime 4.3 
+Flask 1.1.2  
 Flask_PyMongo 2.3.0 
-html5lib 1.1
-Jupyter Notebook 10.2.2
+html5lib 1.1  
+Jupyter Notebook 10.2.2  
 Mongo DB 5.0 
-MongoDB 4.4.2
-Numpy 1.19.3
-Pandas 1.1.4
-PyMongo 3.11.2
-Splinter 0.17.0 
+Numpy 1.19.3  
+Pandas 1.1.4  
+PyMongo 3.11.2  
+Splinter 0.17.0  
 webdriver-manager 3.2.2   
 
 # Results
