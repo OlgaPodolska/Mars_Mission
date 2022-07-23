@@ -7,21 +7,21 @@ The script I built is designed to scrape the most recent astronomy data about Ma
 
 I used BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, stored the scraped data on a Mongo database and used a web application to display the data. 
 
-**Used tools**
-BeautifulSoup 2.2.1  
-Bootstrap 4.3.1  
-Chrome Driver 3.7.0  
-DateTime 4.3 
-Flask 1.1.2  
-Flask_PyMongo 2.3.0 
-html5lib 1.1  
-Jupyter Notebook 10.2.2  
-Mongo DB 5.0 
-Numpy 1.19.3  
-Pandas 1.1.4  
-PyMongo 3.11.2  
-Splinter 0.17.0  
-webdriver-manager 3.2.2   
+**Used tools**  
+BeautifulSoup 2.2.1    
+Bootstrap 4.3.1    
+Chrome Driver 3.7.0    
+DateTime 4.3   
+Flask 1.1.2    
+Flask_PyMongo 2.3.0   
+html5lib 1.1    
+Jupyter Notebook 10.2.2    
+Mongo DB 5.0   
+Numpy 1.19.3    
+Pandas 1.1.4    
+PyMongo 3.11.2    
+Splinter 0.17.0    
+webdriver-manager 3.2.2     
 
 # Results
 
